@@ -8,6 +8,8 @@ Make tic tac toe in python without using any modules.
 
 ## Installation
 
+This works for Mac, Linux and Windows and anybody can run it, nothing extra is necessary for installation. However, there are two ways to run this program. You can choose to use python to run it in the command line or you can run the .exe file, which is slower than using python to load up but performance within program is not noticeable.
+
 ### METHOD 1: Using Python in the Command Line
 
 This method is requires that python 3 is installed on your system. This method is a little longer to run the program but significantly faster than the other method.
