@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/05b21b13b92a4c67a1de66ee3ceb61fc)](https://www.codacy.com/manual/enogerguri/Tic-Tac-Toe-Python?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Eno-Gerguri/Tic-Tac-Toe-Python&amp;utm_campaign=Badge_Grade)
+
 # Tic-Tac-Toe-Python
 
 This project is a basic python project I have completed for practise in my python skills.
